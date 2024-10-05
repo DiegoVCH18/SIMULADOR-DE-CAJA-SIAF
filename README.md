@@ -1,6 +1,6 @@
 # SIMULADOR-DE-CAJA-SIAF
-Simulador Académico de Procesos Operativos y Comerciales en Caja Banco Perú
-Este repositorio contiene el SIAF Comercial, un simulador de operaciones financieras desarrollado en VBA para Excel, destinado a estudiantes de la carrera de Administración de Negocios Bancarios y Financieros. El simulador permite ejecutar una variedad de transacciones bancarias, tales como depósitos, retiros, transferencias y pagos de servicios, replicando un entorno financiero real.
+Simulador Académico de Procesos Operativos y Comerciales CERTUS
+Este repositorio contiene el SIAF Comercial en el archivo:Simulador SIAF.xlsm, un simulador de operaciones financieras desarrollado en VBA para Excel, destinado a estudiantes de la carrera de Administración de Negocios Bancarios y Financieros. El simulador permite ejecutar una variedad de transacciones bancarias, tales como depósitos, retiros, transferencias y pagos de servicios, replicando un entorno financiero real.
 
 Características principales:
 Simulación de transacciones bancarias: Incluye operaciones de depósito, retiro, pago de servicios, emisión de cheques y operaciones con moneda extranjera.
